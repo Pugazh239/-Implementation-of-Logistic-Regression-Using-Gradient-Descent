@@ -14,16 +14,21 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 4. 
 
 ## Program:
-```
+
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
+Developed by:Pugazh sozhan A 
+RegisterNumber: 24000166
+![image](https://github.com/user-attachments/assets/22a2f12b-4a7f-4ebb-b0eb-20f1143318e0)
+![image](https://github.com/user-attachments/assets/b36e5336-207a-4967-9fcf-c6d8bf94a7bd)
+
+
 */
-```
+
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![image](https://github.com/user-attachments/assets/daf717f8-ab01-43b1-af96-da80705c08a2)
+
 
 
 ## Result:
